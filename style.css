@@ -1,0 +1,15 @@
+td{width: 5%;height: 8vh;}
+table {width: 100%; height: 100vh}
+
+.atomico{ border: solid; text-align: center;}
+div{ text-align: left;}
+.nmetais{background-color:#B6D96C;}
+.gases-nobres{background-color: #66ADD9;}
+.metais-alcalinos{background-color: #F2BF5E;}
+.metais-alcalinos-terrosos{background-color: #F2DA5E;}
+.semi-metais{background-color: #65BFAF;}
+.halogênios{background-color: #ACE5F2;}
+.outros-metais{background-color: #A2C6D2;}
+.metais-de-transição{background-color: #F2B3B3;}
+.lantanídeos{background-color: #96D2D9;}
+.actinídios{background-color: #D9B8D3;}
